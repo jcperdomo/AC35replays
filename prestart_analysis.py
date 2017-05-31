@@ -1,3 +1,8 @@
+"""
+Usage: python prestart_analysis.py rr_number race_number start end interval_len
+"""
+
+
 import pypyodbc
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -344,13 +349,17 @@ def plot_course(rr_number, race_number, start, end, interval_len):
 
     legend1 = mpatches.Patch(color='blue', label=b1)
     legend2 = mpatches.Patch(color='green', label=b2)
-    plt.legend(handles=[legend1, legend2], bbox_to_anchor=(1.35, .55))
+    plt.legend(handles=[legend1, legend2], bbox_to_anchor=(1.2, .55))
     plt.title("Round Robin {} Race {} Start Time: {}s to {}s".format(rr_number, race_number, start, end))
-    plt.savefig('Trajectories Round Robin {} Race {}: {} to {} '.format(rr_number, race_number, start, end), bbox_inches='tight')
+    plt.savefig('Trajectories Round Robin {} Race {} Time {} to {}'.format(rr_number, race_number, start, end), bbox_inches='tight')
     # plt.show()
     # plt.close()
 
 if __name__  == "__main__":
+    if len(sys.argv[1:]) != 5:
+        print "Incorrect number of arguments"
+        print "Usage: python prestart_analysis.py rr_number race_number start end interval_len"
+        quit()
     rr_num, race_num , start, end, int_len = [int(i) for i in sys.argv[1:]]
     plot_course(rr_num, race_num , start, end, int_len)
     plot_speeds(rr_num, race_num, start, end)
