@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegattaConfig>
+  <RegattaID>32</RegattaID>
+  <RegattaName>LVAC Qualifiers 2017</RegattaName>
+  <CourseName>Bermuda</CourseName>
+  <CentralLatitude>32.30</CentralLatitude>
+  <CentralLongitude>-64.84</CentralLongitude>
+  <CentralAltitude>0.00</CentralAltitude>
+  <UtcOffset>-3</UtcOffset>
+  <MagneticVariation>-14.76</MagneticVariation>
+  <ShorelineName>bermuda_shoreline</ShorelineName>
+</RegattaConfig>
