@@ -35,7 +35,9 @@ rr1 = {1: ["USA", "FRA"], 2: ["SWE", "JPN"], 3: ["NZL", "FRA"],
        10: ["USA", "SWE"], 11: ["NZL", "GBR"], 12: ["USA", "JPN"],
        13: ["FRA", "GBR"], 14: ["SWE", "NZL"], 15: ["JPN", "FRA"]}
 
-rr2 = {1: ["SWE", "NZL"], 2: ["USA", "FRA"], 3: ["SWE", "GBR"]}
+rr2 = {1: ["SWE", "NZL"], 2: ["USA", "FRA"], 3: ["SWE", "GBR"],
+       4: ["JPN", "FRA"], 5: ["NZL","GBR"], 6: ["USA", "JPN"],
+       7: ["FRA", "GBR"]}
 
 round_robins = [rr1, rr2]
 

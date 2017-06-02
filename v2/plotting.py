@@ -9,10 +9,10 @@ from data_access import *
 
 # import relevant data
 DATE = "170601"
-RACE_NUMBER = 3
-START = -120
+RACE_NUMBER = 2
+START = -30
 END = 10
-FREQ = 50
+FREQ = 25
 
 data = get_race_data(DATE, RACE_NUMBER)
 
@@ -20,7 +20,7 @@ map_options = models.GMapOptions(lat=32.307660, lng=-64.848481,
                                  map_type="terrain", zoom=15)
 
 plot = models.GMapPlot(x_range=models.DataRange1d(), y_range=models.DataRange1d(),
-                       map_options=map_options, plot_width=800, plot_height=800)
+                       map_options=map_options, plot_width=600, plot_height=600)
 
 plot.title.text = "Bermuda"
 plot.api_key = "AIzaSyBTnh7EZA33ChReBm449xwYxno1kE4w3EE"
@@ -42,9 +42,11 @@ for competitor, color in zip(competitors, comp_colors):
     plot.add_glyph(boat_source, boat_glyph)
 
 hover = models.HoverTool()
-hover.tooltips = [('ID', '@Boat'), ('Time', '@Secs'),('Wind Direction', '@CourseWindDirection'),
+hover.tooltips = [('ID', '@Boat'), ('Time', '@Secs'),
+                  ('Wind Direction', '@CourseWindDirection'),
                   ('Wind Speed', '@CourseWindSpeed'), ('COG', '@COG'),
                   ('SOG', '@SOG'), ('Heading', '@Hdg')]
-plot.add_tools(models.PanTool(), models.WheelZoomTool(), models.ResetTool(), hover)
+plot.add_tools(models.PanTool(), models.WheelZoomTool(), models.ResetTool(),
+               hover)
 output_file("gmap_plot.html")
 save(plot)

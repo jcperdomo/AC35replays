@@ -1,0 +1,237 @@
+Louis Vuitton Qualifiers, Bermuda 2017
+Sun 28 May 2017, Race Day 2
+
+20170528140457
+
+14:05:50 SWE Began Entry
+14:06:00 SWE Completed Entry
+14:06:04 FRA Began Entry
+14:06:07 FRA Completed Entry
+14:07:30 WND Wind 230 at 10.9 kts, 11.6 kts peak
+14:07:43 FRA Yankee Flag
+14:07:51 UMP FRA No Penalty
+14:08:00 Race 7 (SWE,FRA): Started
+14:08:13 FRA Crossed Start Line
+14:08:15 SWE Crossed Start Line
+14:08:56 FRA Rounded Mark 1, 0:56.1 after start
+14:08:58 SWE Rounded Mark 1, 0:02.5 behind leader
+14:10:21 SWE Rounded Mark 2, 2:21.2 after start
+14:10:32 FRA Rounded Mark 2, 0:11.6 behind leader
+14:11:00 WND Wind 235 at 10.7 kts, 13.2 kts peak
+14:14:00 WND Wind 235 at 10.7 kts, 14.0 kts peak
+14:15:37 FRA Rounded Mark 3, 7:37.1 after start
+14:15:58 SWE Rounded Mark 3, 0:21.7 behind leader
+14:17:00 WND Wind 235 at 9.5 kts, 10.9 kts peak
+14:17:06 GBR Yankee Flag
+14:17:17 PRO WG -
+14:17:23 GBR Yankee Flag
+14:17:39 GBR Yankee Flag
+14:17:44 GBR Yankee Flag
+14:18:00 GBR Yankee Flag
+14:18:17 GBR Yankee Flag
+14:18:38 FRA Rounded Mark 4, 10:38.7 after start
+14:18:57 SWE Rounded Mark 4, 0:18.7 behind leader
+14:20:00 WND Wind 235 at 10.1 kts, 13.4 kts peak
+14:21:24 GBR Yankee Flag
+14:21:36 GBR Yankee Flag
+14:23:00 WND Wind 240 at 10.7 kts, 12.4 kts peak
+14:23:17 FRA Rounded Mark 5, 15:17.7 after start
+14:23:35 SWE Rounded Mark 5, 0:17.9 behind leader
+14:25:56 FRA Rounded Mark 6, 17:56.7 after start
+14:26:00 WND Wind 240 at 10.9 kts, 12.8 kts peak
+14:26:00 SWE Rounded Mark 6, 0:03.8 behind leader
+14:27:05 FRA Crossed Finish Line
+14:27:06 PRO FRA Finished: time 14:27:05.435, 19:05.435 after start
+14:27:08 SWE Crossed Finish Line, 0:03.2 behind leader
+14:27:13 PRO SWE Finished: time 14:27:08.674, 19:08.674 after start
+
+
+14:34:00 Race 8 (USA,GBR): Warning, 3:00 until start
+14:34:00 WND Wind 240 at 10.3 kts, 11.5 kts peak
+14:34:51 USA Began Entry
+14:34:53 USA Completed Entry
+14:35:05 GBR Began Entry
+14:35:08 GBR Completed Entry
+14:36:30 WND Wind 240 at 10.9 kts, 13.8 kts peak
+14:37:00 Race 8 (USA,GBR): Started
+14:37:11 GBR Crossed Start Line
+14:37:25 USA Crossed Start Line
+14:38:07 GBR Rounded Mark 1, 1:07.9 after start
+14:38:16 USA Rounded Mark 1, 0:08.5 behind leader
+14:39:25 GBR Rounded Mark 2, 2:25.5 after start
+14:39:32 USA Rounded Mark 2, 0:06.6 behind leader
+14:40:00 WND Wind 235 at 10.9 kts, 12.8 kts peak
+14:43:00 WND Wind 235 at 11.3 kts, 13.4 kts peak
+14:43:26 USA Rounded Mark 3, 6:26.8 after start
+14:43:35 GBR Rounded Mark 3, 0:08.6 behind leader
+14:44:24 PRO WG +
+14:45:44 USA Rounded Mark 4, 8:44.5 after start
+14:46:00 WND Wind 240 at 11.5 kts, 13.7 kts peak
+14:46:16 GBR Rounded Mark 4, 0:32.4 behind leader
+14:49:00 WND Wind 235 at 11.3 kts, 12.7 kts peak
+14:50:03 USA Rounded Mark 5, 13:03.8 after start
+14:50:36 GBR Rounded Mark 5, 0:32.2 behind leader
+14:52:00 WND Wind 235 at 10.9 kts, 12.1 kts peak
+14:52:39 USA Rounded Mark 6, 15:39.3 after start
+14:53:14 GBR Rounded Mark 6, 0:34.6 behind leader
+14:53:47 USA Crossed Finish Line
+14:53:58 PRO USA Finished: time 14:53:47.239, 16:47.239 after start
+14:54:25 GBR Crossed Finish Line, 0:38.7 behind leader
+14:54:27 PRO GBR Finished: time 14:54:25.939, 17:25.939 after start
+14:54:29 PRO Race 8 Terminated
+14:55:00 WND Wind 235 at 10.1 kts, 10.9 kts peak
+
+
+15:03:00 WND Wind 235 at 11.9 kts, 14.5 kts peak
+15:03:00 Race 9 (NZL,JPN): Warning, 3:00 until start
+15:03:53 JPN Began Entry
+15:03:56 JPN Completed Entry
+15:04:02 NZL Began Entry
+15:04:05 NZL Completed Entry
+15:05:30 WND Wind 235 at 11.0 kts, 12.8 kts peak
+15:06:00 Race 9 (NZL,JPN): Started
+15:06:00 NZL Crossed Start Line
+15:06:02 JPN Crossed Start Line
+15:06:44 JPN Rounded Mark 1, 0:44.5 after start
+15:06:47 NZL Rounded Mark 1, 0:02.7 behind leader
+15:07:59 JPN Rounded Mark 2, 1:59.8 after start
+15:08:03 NZL Rounded Mark 2, 0:03.7 behind leader
+15:09:00 WND Wind 235 at 11.2 kts, 13.9 kts peak
+15:12:00 WND Wind 240 at 11.9 kts, 13.9 kts peak
+15:12:37 JPN Rounded Mark 3, 6:37.5 after start
+15:12:40 NZL Rounded Mark 3, 0:03.0 behind leader
+15:15:00 WND Wind 230 at 11.5 kts, 13.9 kts peak
+15:15:20 JPN Rounded Mark 4, 9:20.7 after start
+15:15:33 NZL Rounded Mark 4, 0:12.6 behind leader
+15:18:00 WND Wind 240 at 11.1 kts, 12.4 kts peak
+15:20:10 NZL Rounded Mark 5, 14:10.1 after start
+15:20:27 JPN Rounded Mark 5, 0:17.1 behind leader
+15:21:00 WND Wind 240 at 10.2 kts, 12.0 kts peak
+15:23:10 NZL Rounded Mark 6, 17:10.4 after start
+15:23:23 JPN Rounded Mark 6, 0:13.0 behind leader
+15:24:00 WND Wind 240 at 9.9 kts, 11.7 kts peak
+15:24:21 NZL Crossed Finish Line
+15:24:24 PRO NZL Finished: time 15:24:21.554, 18:21.554 after start
+15:24:54 JPN Crossed Finish Line, 0:33.2 behind leader
+15:24:58 PRO JPN Finished: time 15:24:54.794, 18:54.794 after start
+15:25:02 PRO Race 9 Terminated
+15:25:40 PRO Race 10 Start: 15:35
+
+
+15:32:00 WND Wind 250 at 11.5 kts, 13.1 kts peak
+15:32:00 Race 10 (USA,SWE): Warning, 3:00 until start
+15:32:55 USA Began Entry
+15:32:58 USA Completed Entry
+15:33:02 SWE Began Entry
+15:33:05 SWE Completed Entry
+15:34:30 WND Wind 240 at 10.6 kts, 12.9 kts peak
+15:34:52 SWE Yankee Flag
+15:34:59 UMP SWE No Penalty
+15:35:00 Race 10 (USA,SWE): Started
+15:35:11 SWE Crossed Start Line
+15:35:15 USA Crossed Start Line
+15:35:57 SWE Rounded Mark 1, 0:57.5 after start
+15:36:01 USA Rounded Mark 1, 0:04.1 behind leader
+15:37:07 WND Wind 235 at 8.6 kts, 10.1 kts peak
+15:37:12 SWE Rounded Mark 2, 2:12.6 after start
+15:37:16 USA Rounded Mark 2, 0:03.9 behind leader
+15:41:00 WND Wind 235 at 9.5 kts, 12.1 kts peak
+15:42:13 SWE Rounded Mark 3, 7:13.4 after start
+15:42:32 USA Rounded Mark 3, 0:18.8 behind leader
+15:44:00 WND Wind 240 at 9.6 kts, 11.1 kts peak
+15:45:00 SWE Rounded Mark 4, 10:00.0 after start
+15:45:23 USA Rounded Mark 4, 0:23.6 behind leader
+15:47:00 WND Wind 240 at 9.4 kts, 10.4 kts peak
+15:49:54 SWE Rounded Mark 5, 14:54.0 after start
+15:50:00 WND Wind 235 at 9.7 kts, 12.0 kts peak
+15:50:09 USA Rounded Mark 5, 0:15.0 behind leader
+15:52:13 NZL Yankee Flag
+15:52:15 NZL Bravo Flag
+15:52:24 NZL Yankee Flag
+15:52:26 NZL Bravo Flag
+15:52:47 SWE Rounded Mark 6, 17:47.7 after start
+15:53:00 WND Wind 245 at 9.5 kts, 11.4 kts peak
+15:53:28 USA Rounded Mark 6, 0:40.8 behind leader
+15:54:01 SWE Crossed Finish Line
+15:54:02 PRO SWE Finished: time 15:54:01.107, 19:01.107 after start
+15:54:40 USA Crossed Finish Line, 0:38.9 behind leader
+15:54:42 PRO USA Finished: time 15:54:40.101, 19:40.101 after start
+15:54:44 PRO Race 10 Terminated
+15:55:08 PRO Race 11 Start: 16:05
+
+
+16:02:00 WND Wind 245 at 10.1 kts, 12.3 kts peak
+16:02:00 Race 11 (NZL,GBR): Warning, 3:00 until start
+16:02:49 NZL Began Entry
+16:02:50 MDS NZL Early Entry
+16:02:54 UMP NZL OCS/Prestart Penalty
+16:02:54 NZL sailed outside the boundary
+16:03:04 NZL Completed Entry
+16:03:05 GBR Began Entry
+16:03:07 GBR Completed Entry
+16:03:14 GBR Yankee Flag
+16:03:21 UMP GBR No Penalty
+16:04:30 WND Wind 235 at 10.9 kts, 13.0 kts peak
+16:05:00 Race 11 (NZL,GBR): Started
+16:05:01 GBR Crossed Start Line
+16:05:05 MDS NZL OCS/Prestart Penalty Complete
+16:05:06 UMP NZL OCS/Prestart Penalty Complete
+16:05:06 NZL Crossed Start Line
+16:05:50 GBR Rounded Mark 1, 0:50.4 after start
+16:05:55 NZL Rounded Mark 1, 0:04.9 behind leader
+16:07:09 NZL Rounded Mark 2, 2:09.6 after start
+16:07:11 GBR Rounded Mark 2, 0:02.0 behind leader
+16:08:00 WND Wind 235 at 9.5 kts, 10.9 kts peak
+16:11:00 WND Wind 245 at 9.4 kts, 12.3 kts peak
+16:11:25 NZL Rounded Mark 3, 6:25.7 after start
+16:11:34 GBR Rounded Mark 3, 0:08.7 behind leader
+16:13:48 NZL Rounded Mark 4, 8:48.5 after start
+16:14:00 WND Wind 250 at 10.0 kts, 11.4 kts peak
+16:14:37 GBR Rounded Mark 4, 0:48.6 behind leader
+16:17:00 WND Wind 245 at 9.8 kts, 11.3 kts peak
+16:18:10 NZL Rounded Mark 5, 13:10.2 after start
+16:19:18 GBR Rounded Mark 5, 1:08.0 behind leader
+16:20:00 WND Wind 240 at 10.6 kts, 13.9 kts peak
+16:20:29 NZL Rounded Mark 6, 15:29.2 after start
+16:21:45 NZL Crossed Finish Line
+16:21:46 PRO NZL Finished: time 16:21:45.567, 16:45.567 after start
+16:21:57 GBR Rounded Mark 6, 1:28.6 behind leader
+16:23:13 GBR Crossed Finish Line, 1:27.5 behind leader
+16:23:15 PRO GBR Finished: time 16:23:13.139, 18:13.139 after start
+16:23:28 PRO Race 11 Terminated
+
+
+16:31:00 Race 12 (USA,JPN): Warning, 3:00 until start
+16:31:00 WND Wind 240 at 9.2 kts, 10.2 kts peak
+16:31:54 JPN Began Entry
+16:31:57 JPN Completed Entry
+16:32:04 USA Began Entry
+16:32:07 USA Completed Entry
+16:33:30 WND Wind 235 at 9.2 kts, 11.7 kts peak
+16:34:00 Race 12 (USA,JPN): Started
+16:34:00 USA Crossed Start Line
+16:34:01 JPN Crossed Start Line
+16:34:53 USA Rounded Mark 1, 0:53.3 after start
+16:35:02 JPN Rounded Mark 1, 0:09.5 behind leader
+16:36:18 USA Rounded Mark 2, 2:18.0 after start
+16:36:24 JPN Rounded Mark 2, 0:06.6 behind leader
+16:37:00 WND Wind 235 at 10.1 kts, 12.0 kts peak
+16:40:00 WND Wind 245 at 9.5 kts, 10.4 kts peak
+16:41:01 USA Rounded Mark 3, 7:01.1 after start
+16:42:14 JPN Rounded Mark 3, 1:13.3 behind leader
+16:43:00 WND Wind 245 at 9.5 kts, 11.0 kts peak
+16:43:59 USA Rounded Mark 4, 9:59.2 after start
+16:45:08 JPN Rounded Mark 4, 1:09.2 behind leader
+16:46:00 WND Wind 240 at 10.7 kts, 12.5 kts peak
+16:48:32 USA Rounded Mark 5, 14:32.2 after start
+16:49:00 WND Wind 240 at 10.9 kts, 12.5 kts peak
+16:49:20 JPN Rounded Mark 5, 0:48.0 behind leader
+16:51:09 USA Rounded Mark 6, 17:09.9 after start
+16:51:58 JPN Rounded Mark 6, 0:48.6 behind leader
+16:52:00 WND Wind 240 at 10.3 kts, 12.5 kts peak
+16:52:19 USA Crossed Finish Line
+16:52:20 PRO USA Finished: time 16:52:19.540, 18:19.540 after start
+16:53:13 JPN Crossed Finish Line, 0:54.0 behind leader
+16:53:15 PRO JPN Finished: time 16:53:13.576, 19:13.576 after start
+16:53:17 PRO Race 12 Terminated
+
