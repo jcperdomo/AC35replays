@@ -25,7 +25,7 @@ def get_recording_times(date):
     return sorted(list(s))
 
 def get_competitors(date, race_number):
-    return AC_schedule[date][race_number-1]
+    return AC_schedule[date][race_number - 1]
 
 def get_race_data(date, race_number):
     """
@@ -66,9 +66,17 @@ def get_start_time(data):
     events_frame = data['events']
     return events_frame.loc[events_frame['Event'] == 'RaceStarted']['Secs'].iloc[0]
 
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
 def get_event_options(date, race_number):
     data = get_race_data(date, race_number)['events']
-    marks_rounded = [str(i) for i in data['Opt1'].unique() if str(i) != 'nan']
+    mark_vals = [int(i) for i in data['Opt1'].unique() if is_int(i)]
+    marks_rounded = [str(i) for i in range(1, max(mark_vals) + 1)]
     competitors = get_competitors(date, race_number)
 
     roundings = itertools.product(competitors, ["MarkRounding"], marks_rounded)
@@ -82,9 +90,9 @@ def parse_event(event):
     if event == 'RaceStarted':
         res = (1, event)
     elif event[4] == 'C':
-        res = (2, [res[:3], res[4:]])
+        res = (2, event[:3]) # e.g (2, 'FRA')
     else:
-        res = (3, [res[:3],"MarkRounding", res[-3:]])
+        res = (3, [event[:3], event[-1:]]) # (3, 'FRA', 3.0)
     return res
 
 def get_event_time(date, race_number, event):
@@ -94,19 +102,20 @@ def get_event_time(date, race_number, event):
     if event_type == 1:
         test = events_frame['Event'] == 'RaceStarted'
     elif event_type == 2:
-        test = (events_frame['Event'] == 'CrossedFinish' and
-                events_frame['Boat'] == parts[1])
+        test = ((events_frame['Event'] == 'CrossedFinish') &
+                (events_frame['Boat'] == parts))
     else:
-        test = (events_frame['Event'] == 'MarkRounding' and
-                events_frame['Boat'] == parts[0] and
-                events_frame['Opt1'] == parts[-1])
-    return events_frame.loc[test]['Secs'].iloc[0]
+        test = ((events_frame['Event'] == 'MarkRounding') &
+                (events_frame['Boat'] == parts[0]) &
+                (events_frame['Opt1'].isin((int(parts[-1]), parts[-1]))))
+    # fix: picked the last one in case there are multiple "RaceStarted" events
+    return events_frame.loc[test]['Secs'].iloc[-1]
 
 def get_mark_data(date, race_number):
     data = get_race_data(date, race_number)
     # returns positions of the marks at start time
     mark_data = pd.concat([data[m] for m in MARKS])
-    start_time = get_start_time(data)
+    start_time = get_event_time(date, race_number, "RaceStarted")
     return mark_data.loc[abs(mark_data['Secs'] - start_time) < .5]
 
 def get_boat_color(boat_name):
@@ -114,14 +123,15 @@ def get_boat_color(boat_name):
               "GBR": "orange", "SWE": "yellow", "JPN": "white"}
     return colors[boat_name]
 
-def get_boat_data(date, race_number, interval, freq):
+def get_boat_data(date, race_number, event, interval, freq):
     data = get_race_data(date, race_number)
     competitors = get_competitors(date, race_number)
     res = []
     for boat_name in competitors:
         boat_data = data[boat_name]
+
         # normalize times to the start time
-        boat_data['Secs'] = boat_data['Secs'] - get_start_time(data)
+        boat_data['Secs'] = boat_data['Secs'] - get_event_time(date, race_number, event)
 
         # extract data from the relevant interval
         lb, ub = interval
