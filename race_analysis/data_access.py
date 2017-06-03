@@ -123,7 +123,7 @@ def get_mark_data(date, race_number):
 
 def get_boat_color(boat_name):
     colors = {"USA": "black", "NZL": "red", "GBR": "purple", "FRA": "green",
-              "GBR": "orange", "SWE": "yellow", "JPN": "white"}
+              "GBR": "orange", "SWE": "yellow", "JPN": "brown"}
     return colors[boat_name]
 
 def get_boat_data(date, race_number, event, interval, freq):
